@@ -12,3 +12,5 @@ Secondly, I used row data that was made publicly available by Mexican government
 After classification, I give a weight to each patient and based on some limits, I distribute these patients among nurses such as a nurse can take only 2 medium patients, 1 high and 1 low patients and other limits.
 5. Website Development:
 At the end of the project, I developed a user-friendly website for this project using HTML, CSS, and Python (Django) programming languages for easy use.
+
+NOTE: Dataset is confidential, therefore, I do not share it here.
